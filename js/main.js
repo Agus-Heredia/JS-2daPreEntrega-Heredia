@@ -57,7 +57,7 @@ const simuladorCompra = () => {
                 break;
 
             case "b":
-                precio = 150
+                precio = 1500
                 break;
 
             case "c":
